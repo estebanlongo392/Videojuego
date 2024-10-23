@@ -1,0 +1,14 @@
+../Core/Src/main.c:97:5:main	60
+../Core/Src/main.c:412:6:SystemClock_Config	3
+../Core/Src/main.c:460:13:MX_SPI1_Init	2
+../Core/Src/main.c:498:13:MX_UART5_Init	2
+../Core/Src/main.c:531:13:MX_USART2_UART_Init	2
+../Core/Src/main.c:564:13:MX_USART3_UART_Init	2
+../Core/Src/main.c:597:13:MX_GPIO_Init	1
+../Core/Src/main.c:661:5:load_image_from_sd_to_play	4
+../Core/Src/main.c:686:5:load_image_from_sd_to_play2	4
+../Core/Src/main.c:712:6:transmit_uart3	1
+../Core/Src/main.c:718:8:HAL_UART_RxCpltCallback	9
+../Core/Src/main.c:784:8:transmit_uart5	1
+../Core/Src/main.c:787:8:transmit_uart2	1
+../Core/Src/main.c:797:6:Error_Handler	1
